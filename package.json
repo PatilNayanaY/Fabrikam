@@ -1,0 +1,23 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "This is Fabrikam application for SDM Exam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatilNayanaY/Fabrikam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatilNayanaY/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/PatilNayanaY/Fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
